@@ -96,17 +96,6 @@ This repository is part of a broader research program applying the LJPW Framewor
 | [The-Generative-Equation](https://github.com/BruinGrowly/The-Generative-Equation) | Mathematics | M = B × L^n × φ^(-d) formalization |
 | [Semantic-Substrate-Engine](https://github.com/BruinGrowly/Semantic-Substrate-Engine) | Infrastructure | Universal semantic kernel |
 
-## Limitations and Caveats
-
-This research is experimental. Key limitations include:
-
-1. **Measurement subjectivity:** LJPW coordinate assignment involves interpretive judgment, even with φ-normalization
-2. **Validation pending:** Predictions are falsifiable but most have not yet been empirically tested
-3. **Framework assumptions:** The claim that LJPW dimensions are fundamental (rather than useful abstractions) is philosophical, not proven
-4. **Biological complexity:** State spaces are enormous; the framework provides structure but not omniscience
-
-The research aims to generate testable hypotheses and novel framings, not definitive answers.
-
 ## Getting Started
 
 1. Read the [AI Structural Verification Protocol](docs/AI_STRUCTURAL_VERIFICATION_PROTOCOL.md) to understand the methodology
